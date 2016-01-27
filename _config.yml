@@ -1,7 +1,7 @@
 name: cleverevans
 favicon: null
-layout_spectrum: 0.1331106482539326
-typography_spectrum: 0.20128261833451688
+layout_spectrum: 1
+typography_spectrum: 0.63686
 cta:
   domain: null
   bucket: null
