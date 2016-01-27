@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cleverevans]]></title>
+        <description><![CDATA[cleverevans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 23:35:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sad City]]></title>
+            <description><![CDATA[<article><h1>Sad City</h1><p>Sad City, artwork created for a production of Haroun and the Sea of Stories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/691237c26cf460b10abeb4cd4a1685a2a2bf01c4.jpg"></article>]]></description>
+            <link>undefinedsad-city/index.html</link>
+            <guid isPermaLink="false">6d0314ff-3811-4477-92e9-9ba1316ec15a</guid>
+            <pubDate>Wed, 27 Jan 2016 23:26:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
